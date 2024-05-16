@@ -1,7 +1,7 @@
 # Sports-Recommender
 Situation: Developed a Machine Learning model as a part of my academic coursework
 
-1. My Task was to develop a mode to recommend sports categories from game data using machine learning techniques.
+1. My Task was to develop a model to recommend sports categories from game data using machine learning techniques.
 2. Utilized pandas and scikit-learn libraries for data manipulation and machine learning.
 3. Employed pandas and scikit-learn libraries to preprocess data and implement a predictive model.
 4. Utilized Decision Tree Classifier for its simplicity and interpretability.
